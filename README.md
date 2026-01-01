@@ -12,7 +12,6 @@ I'm a passionate developer with a BSc in Mechatronics Engineering from Rajshahi 
 
 ### Current Activities
 - Exploring Next.js and modern React patterns (App Router, Server Components)
-- Working on a full-stack tourism website project using MERN + Tailwind CSS
 - Strengthening TypeScript skills and building reusable component libraries
 - Practicing clean code, performance optimization, and accessibility best practices
 
