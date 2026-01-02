@@ -3,7 +3,7 @@
 <div align="center">
 
 # Md. Iftekharul Alam Bhuiyan
-### Junior Frontend / MERN Stack Developer
+### Junior Full-Stack / MERN Stack Developer
 
 </div>
 
